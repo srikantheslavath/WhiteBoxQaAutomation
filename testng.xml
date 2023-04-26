@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="com.ExtentReports.Listeners"></listener>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="C:/Users/Sampath Velupula/IdeaProjects/WhiteBoxQaAutomation">
+        <classes>
+            <class name="com.PageTestPackage.HomePageTest">
+                <methods>
+                    <include name="verifyTitletest"/>
+                    <include name="verifylogotest"/>
+                    <include name="verifyWblTest"/>
+                    <include name="verifyloginbtnTest"/>
+                </methods>
+            </class>
+            <class name="com.PageTestPackage.SignInPageTest">
+                <methods>
+                    <include name="VerifyFSAtest"/>
+                    <include name="VerifyTitleTest"/>
+                    <include name="LoginTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test></suite>

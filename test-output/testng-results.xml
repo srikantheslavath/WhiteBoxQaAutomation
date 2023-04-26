@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-25T11:58:05 PDT" name="All Test Suite" finished-at="2023-04-25T12:00:37 PDT" duration-ms="152401">
+    <groups>
+    </groups>
+    <test started-at="2023-04-25T11:58:05 PDT" name="C:/Users/Sampath Velupula/IdeaProjects/WhiteBoxQaAutomation" finished-at="2023-04-25T12:00:37 PDT" duration-ms="152401">
+      <class name="com.PageTestPackage.HomePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.PageTestPackage.HomePageTest@c33b74f]" started-at="2023-04-25T11:58:05 PDT" name="setup" finished-at="2023-04-25T11:58:17 PDT" duration-ms="11916" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyTitletest()[pri:1, instance:com.PageTestPackage.HomePageTest@c33b74f]" started-at="2023-04-25T11:58:17 PDT" name="verifyTitletest" finished-at="2023-04-25T11:58:17 PDT" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitletest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.PageTestPackage.HomePageTest@c33b74f]" started-at="2023-04-25T11:58:17 PDT" name="TearDown" finished-at="2023-04-25T11:58:18 PDT" duration-ms="561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.PageTestPackage.HomePageTest@c33b74f]" started-at="2023-04-25T11:58:18 PDT" name="setup" finished-at="2023-04-25T11:58:30 PDT" duration-ms="12112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifylogotest()[pri:2, instance:com.PageTestPackage.HomePageTest@c33b74f]" started-at="2023-04-25T11:58:30 PDT" name="verifylogotest" finished-at="2023-04-25T11:58:30 PDT" duration-ms="117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogotest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.PageTestPackage.HomePageTest@c33b74f]" started-at="2023-04-25T11:58:30 PDT" name="TearDown" finished-at="2023-04-25T11:58:30 PDT" duration-ms="594" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.PageTestPackage.HomePageTest@c33b74f]" started-at="2023-04-25T11:58:30 PDT" name="setup" finished-at="2023-04-25T11:58:42 PDT" duration-ms="11784" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyWblTest()[pri:3, instance:com.PageTestPackage.HomePageTest@c33b74f]" started-at="2023-04-25T11:58:42 PDT" name="verifyWblTest" finished-at="2023-04-25T11:58:42 PDT" duration-ms="101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWblTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.PageTestPackage.HomePageTest@c33b74f]" started-at="2023-04-25T11:58:42 PDT" name="TearDown" finished-at="2023-04-25T11:58:43 PDT" duration-ms="462" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.PageTestPackage.HomePageTest@c33b74f]" started-at="2023-04-25T11:58:43 PDT" name="setup" finished-at="2023-04-25T11:58:54 PDT" duration-ms="10992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyloginbtnTest()[pri:4, instance:com.PageTestPackage.HomePageTest@c33b74f]" started-at="2023-04-25T11:58:54 PDT" name="verifyloginbtnTest" finished-at="2023-04-25T11:58:55 PDT" duration-ms="1003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyloginbtnTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.PageTestPackage.HomePageTest@c33b74f]" started-at="2023-04-25T11:58:55 PDT" name="TearDown" finished-at="2023-04-25T11:58:55 PDT" duration-ms="458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.PageTestPackage.HomePageTest -->
+      <class name="com.PageTestPackage.SignInPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.PageTestPackage.SignInPageTest@52e6fdee]" started-at="2023-04-25T11:58:55 PDT" name="setUp" finished-at="2023-04-25T11:59:04 PDT" duration-ms="9163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifyFSAtest()[pri:1, instance:com.PageTestPackage.SignInPageTest@52e6fdee]" started-at="2023-04-25T11:59:04 PDT" name="VerifyFSAtest" finished-at="2023-04-25T11:59:05 PDT" duration-ms="119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyFSAtest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.PageTestPackage.SignInPageTest@52e6fdee]" started-at="2023-04-25T11:59:05 PDT" name="TearDown" finished-at="2023-04-25T11:59:05 PDT" duration-ms="506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.PageTestPackage.SignInPageTest@52e6fdee]" started-at="2023-04-25T11:59:05 PDT" name="setUp" finished-at="2023-04-25T11:59:19 PDT" duration-ms="13843" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifyTitleTest()[pri:2, instance:com.PageTestPackage.SignInPageTest@52e6fdee]" started-at="2023-04-25T11:59:19 PDT" name="VerifyTitleTest" finished-at="2023-04-25T11:59:19 PDT" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyTitleTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.PageTestPackage.SignInPageTest@52e6fdee]" started-at="2023-04-25T11:59:19 PDT" name="TearDown" finished-at="2023-04-25T11:59:20 PDT" duration-ms="838" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.PageTestPackage.SignInPageTest@52e6fdee]" started-at="2023-04-25T11:59:23 PDT" name="setUp" finished-at="2023-04-25T11:59:34 PDT" duration-ms="11350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginTest(java.lang.String,java.lang.String)[pri:3, instance:com.PageTestPackage.SignInPageTest@52e6fdee]" started-at="2023-04-25T11:59:34 PDT" name="LoginTest" data-provider="loginDataDriven" finished-at="2023-04-25T11:59:35 PDT" duration-ms="609" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[srikantheslavath]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Innovapath]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.PageTestPackage.SignInPageTest@52e6fdee]" started-at="2023-04-25T11:59:35 PDT" name="TearDown" finished-at="2023-04-25T11:59:36 PDT" duration-ms="832" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.PageTestPackage.SignInPageTest@52e6fdee]" started-at="2023-04-25T11:59:36 PDT" name="setUp" finished-at="2023-04-25T11:59:47 PDT" duration-ms="11054" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginTest(java.lang.String,java.lang.String)[pri:3, instance:com.PageTestPackage.SignInPageTest@52e6fdee]" started-at="2023-04-25T11:59:47 PDT" name="LoginTest" data-provider="loginDataDriven" finished-at="2023-04-25T11:59:48 PDT" duration-ms="566" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vinay ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.PageTestPackage.SignInPageTest@52e6fdee]" started-at="2023-04-25T11:59:48 PDT" name="TearDown" finished-at="2023-04-25T11:59:48 PDT" duration-ms="658" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.PageTestPackage.SignInPageTest@52e6fdee]" started-at="2023-04-25T11:59:48 PDT" name="setUp" finished-at="2023-04-25T11:59:59 PDT" duration-ms="10893" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginTest(java.lang.String,java.lang.String)[pri:3, instance:com.PageTestPackage.SignInPageTest@52e6fdee]" started-at="2023-04-25T11:59:59 PDT" name="LoginTest" data-provider="loginDataDriven" finished-at="2023-04-25T12:00:00 PDT" duration-ms="515" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sahas]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Innova@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.PageTestPackage.SignInPageTest@52e6fdee]" started-at="2023-04-25T12:00:00 PDT" name="TearDown" finished-at="2023-04-25T12:00:00 PDT" duration-ms="680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.PageTestPackage.SignInPageTest@52e6fdee]" started-at="2023-04-25T12:00:00 PDT" name="setUp" finished-at="2023-04-25T12:00:12 PDT" duration-ms="11489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginTest(java.lang.String,java.lang.String)[pri:3, instance:com.PageTestPackage.SignInPageTest@52e6fdee]" started-at="2023-04-25T12:00:12 PDT" name="LoginTest" data-provider="loginDataDriven" finished-at="2023-04-25T12:00:12 PDT" duration-ms="432" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[swapna]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Swapna@1990]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.PageTestPackage.SignInPageTest@52e6fdee]" started-at="2023-04-25T12:00:12 PDT" name="TearDown" finished-at="2023-04-25T12:00:13 PDT" duration-ms="771" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.PageTestPackage.SignInPageTest@52e6fdee]" started-at="2023-04-25T12:00:13 PDT" name="setUp" finished-at="2023-04-25T12:00:24 PDT" duration-ms="11123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginTest(java.lang.String,java.lang.String)[pri:3, instance:com.PageTestPackage.SignInPageTest@52e6fdee]" started-at="2023-04-25T12:00:24 PDT" name="LoginTest" data-provider="loginDataDriven" finished-at="2023-04-25T12:00:25 PDT" duration-ms="632" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sameer]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[yugh123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.PageTestPackage.SignInPageTest@52e6fdee]" started-at="2023-04-25T12:00:25 PDT" name="TearDown" finished-at="2023-04-25T12:00:25 PDT" duration-ms="539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.PageTestPackage.SignInPageTest@52e6fdee]" started-at="2023-04-25T12:00:25 PDT" name="setUp" finished-at="2023-04-25T12:00:36 PDT" duration-ms="10922" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginTest(java.lang.String,java.lang.String)[pri:3, instance:com.PageTestPackage.SignInPageTest@52e6fdee]" started-at="2023-04-25T12:00:36 PDT" name="LoginTest" data-provider="loginDataDriven" finished-at="2023-04-25T12:00:37 PDT" duration-ms="533" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[yughendhar]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sameer1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.PageTestPackage.SignInPageTest@52e6fdee]" started-at="2023-04-25T12:00:37 PDT" name="TearDown" finished-at="2023-04-25T12:00:37 PDT" duration-ms="590" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.PageTestPackage.SignInPageTest -->
+    </test> <!-- C:/Users/Sampath Velupula/IdeaProjects/WhiteBoxQaAutomation -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
